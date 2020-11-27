@@ -1,0 +1,83 @@
+commit d5cfa47170b9d475aacef39075bdf773eb42b065
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 13:43:11 2020 +0200
+
+    branch
+
+commit 2b2a706fa8b395843047ba83221dadaed33d5e09
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 13:24:32 2020 +0200
+
+    v3
+
+commit 7c7f70758e9109419576d08aaf3c57aa6736b2ea
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 13:20:53 2020 +0200
+
+    v1
+
+commit 093b4ac78debd82c6be5342d2a0b63fd9e43f6f0
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 12:21:41 2020 +0200
+
+    6?
+
+commit 255ed9093868b393d7e965d7f8ace6da52e58217
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 12:14:04 2020 +0200
+
+    4th changes rollback
+
+commit 4db7d501bdc116e1635c42240f1e3adc2099e7aa
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 12:11:47 2020 +0200
+
+    rollback to 3d v
+
+commit 7b9d75a41f29da25e01b7962b6e3dd21d42b9f7a
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 12:10:43 2020 +0200
+
+    rollback
+
+commit f0e0084e03e17259b7d0df244e4cdcc20685f0a2
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 12:07:50 2020 +0200
+
+    5th
+
+commit df653e8a6e9299080f805ffaf1b2fbc54aaf1a28
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 12:06:07 2020 +0200
+
+    4d
+
+commit c2e7f980a63cf173b64f485a1252e16dbb72478c
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 12:05:09 2020 +0200
+
+    3d
+
+commit 620bd527c5f673652d908d7ac444b68cb29d4130
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 11:50:22 2020 +0200
+
+    still trying to commit
+
+commit 1b06cbe9fd5db70ead80a89d12f3b55ea3edbce4
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 11:48:08 2020 +0200
+
+    the 1st changes
+
+commit fd865cc1a6177a667daf5467f561d9a5f0e4afd8
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 11:45:24 2020 +0200
+
+    committed 1st changes
+
+commit 3d4785b973231fc4645833d11b77821c76730148
+Author: arty_d <artemzagorulko@hotmail.com>
+Date:   Fri Nov 27 11:40:48 2020 +0200
+
+    initial version
